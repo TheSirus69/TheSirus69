@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -29,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@TheSirus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -46,5 +46,15 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/TheSirus69/TheSirus69/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/96k8of1aht7fawp27wdrbxwpe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=96k8of1aht7fawp27wdrbxwpe&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
