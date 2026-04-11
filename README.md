@@ -1,58 +1,40 @@
-<h2 align="center">Hi 👋! My name is Sirus</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheSirus69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheSirus69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<h1>Sirus</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=A78BFA&center=true&vCenter=true&width=400&lines=Cybersecurity;Meteorology;Snowboarding;Software+Dev;Gaming" alt="" />
+
+<br/>
+
+<em>"Stand for all. Fear none"</em>
+
+<br/><br/>
+
+IT Analyst. Cybersecurity enthusiast, Software Developer, Meteorology Hobby, and Snowboarding when the season allows.
+
+<br/><br/>
+
+<a href="https://discord.com/users/thesirus"><img src="https://img.shields.io/badge/Discord-thesirus-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+<a href="https://steamcommunity.com/id/Real_Sirus/"><img src="https://img.shields.io/badge/Steam-Real__Sirus-1b2838?style=flat-square&logo=steam&logoColor=white" /></a>
+<a href="https://www.roblox.com/users/1575887249/profile"><img src="https://img.shields.io/badge/Roblox-sirus-e8122d?style=flat-square&logo=roblox&logoColor=white" /></a>
+<a href="https://www.youtube.com/@TheSirus"><img src="https://img.shields.io/badge/YouTube-TheSirus-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+<a href="https://www.twitch.tv/thesirus01"><img src="https://img.shields.io/badge/Twitch-thesirus01-9146FF?style=flat-square&logo=twitch&logoColor=white" /></a>
+
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+
+<img src="https://github-readme-stats-bice-kappa-63.vercel.app/api?username=TheSirus69&show_icons=true&count_private=true&include_all_commits=true&bg_color=07030E&title_color=C4B5FD&text_color=9980D4&icon_color=A78BFA&border_color=1a0a2e" height="150" />
+<img src="https://github-readme-stats-bice-kappa-63.vercel.app/api/top-langs?username=TheSirus69&layout=compact&langs_count=6&bg_color=07030E&title_color=C4B5FD&text_color=9980D4&border_color=1a0a2e" height="150" />
+
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <a href="https://www.youtube.com/@TheSirus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/thesirus01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.com/invite/eQD4ufEP5c" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,nextjs,react,tailwind,html,css&theme=dark" />
+
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/96k8of1aht7fawp27wdrbxwpe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=96k8of1aht7fawp27wdrbxwpe&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-###
