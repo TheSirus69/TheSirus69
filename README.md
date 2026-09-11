@@ -2,7 +2,7 @@
 
 <h1>Sirus</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=A78BFA&center=true&vCenter=true&width=400&lines=Cybersecurity;Meteorology;Snowboarding;Software+Dev;Gaming" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=A78BFA&center=true&vCenter=true&width=400&lines=Cybersecurity;Dev;Gaming" alt="" />
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-IT Analyst. Cybersecurity enthusiast, Software Developer, Meteorology Hobby, and Snowboarding when the season allows.
+IT Analyst.
 
 <br/><br/>
 
